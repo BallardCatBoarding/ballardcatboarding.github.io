@@ -15,3 +15,12 @@ en: &DEFAULT_EN
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
