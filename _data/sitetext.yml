@@ -21,14 +21,19 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Requirements"
+        desc: " Customer intake form.
+       I come to your house before hand.
+       Pick up and drop off time established."
         icon: fas fa-cat #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Friendly Home"
+        desc: " high spots/windows for cats to hang out.
+           cat friendly plants only.
+             One household at a time.
+               Adults only household."
         icon: fas fa-home
       - title: "Affordable"
-        desc: "<b>$35</b> per day for one cat, and <b>$15</b> per day for every additional cat. Pick up and drop off are billed as half days."
+        desc: "<b>$35</b> per day for one cat, and <b>$15</b> per day for every additional cat. Pick up and drop off are billed as half days. You pay 50% upfront and the rest on pick-up"
         icon: fas fa-dollar-sign
 
   # portfolio:
@@ -54,24 +59,24 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+      # - title: "Jekyll Theme is created"
+      #   year: "2019"
+      #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      #   image: assets/img/timeline/3.jpg
+      #   alt: image alt text
+      # - title: "Title"
+      #   year: "2009-2011"
+      #   desc: "Your description here, **Markdown** is fully supported."
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: ""
+    body: "Great with cats, thought why not start a cat boarding service."
     section: about
 
   # clients:
@@ -131,7 +136,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

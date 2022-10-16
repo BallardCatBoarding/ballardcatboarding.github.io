@@ -2,5 +2,7 @@ title: Ballard Cat Boarding
 remote_theme: raviriley/agency-jekyll-theme
 baseurl: ""
 locale: "en-US" # See available languages in _data/sitetext.yml
+formspree_form_path: "f/xzbwvnpp"
+email: ballardcatboarding@gmail.com
 plugins:
     - jekyll-remote-theme
