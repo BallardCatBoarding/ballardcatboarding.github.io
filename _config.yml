@@ -1,4 +1,6 @@
 title: Ballard Cat Boarding
 remote_theme: raviriley/agency-jekyll-theme
-
+baseurl: ""
 locale: "en-US" # See available languages in _data/sitetext.yml
+plugins:
+    - jekyll-remote-theme
