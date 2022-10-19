@@ -11,29 +11,32 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: A vacation home for cats!
-    text: It's Nice To Meet You
+    # title: A vacation home for cats!
+    text: A vacation home for cats!
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "How we work"
     text: ""
     section: services
     list:
-      - title: "Requirements"
-        desc: " Customer intake form.
-       I come to your house before hand.
-       Pick up and drop off time established."
+      - title: "Getting Started"
+        desc: "Submit a message using the form below with your desired boarding dates.  
+          We can optionally set up a time for me to come meet your cat(s) before drop-off.
+          We will work together to determine the right pick-up and drop-off times."
         icon: fas fa-cat #find more at https://fontawesome.com/icons
-      - title: "Friendly Home"
+      - title: "Cat's Paradise"
         desc: " high spots/windows for cats to hang out.
            cat friendly plants only.
              One household at a time.
                Adults only household."
+        desc: "Conveniently located in Ballard, our home comes equipped with high spots and windows for cats to explore. 
+          Our household is adults-only, accented with curated cat-friendly plants, and prioritizes health by only accepting one family of boarders at a time."
         icon: fas fa-home
-      - title: "Affordable"
-        desc: "<b>$35</b> per day for one cat, and <b>$15</b> per day for every additional cat. Pick up and drop off are billed as half days. You pay 50% upfront and the rest on pick-up"
+      - title: "Pricing"
+        desc: "<b>$35</b> per day for one cat, and <b>$15</b> per day for every additional cat. 
+          Pick-up and drop-off are billed as half days. You pay 50% upfront and the rest on pick-up."
         icon: fas fa-dollar-sign
 
   # portfolio:
@@ -44,7 +47,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Testimonials"
-    text: "Read about some of the experiences my customers have had with my service."
+    text: "Read about some of the experiences our customers have had with our service."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -76,7 +79,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "Great with cats, thought why not start a cat boarding service."
+    body: "Established in 2020, Ballard Cat Boarding began as an informal service offered to close friends during their travels. As interest in boarding with us grew, we decided to open our home up to our local community.
+      When you're away traveling, the last thing you need to be worrying about is how your beloved furry family member is doing back home. Our quiet and peaceful home makes it easy for cats to settle in, and our experienced, respectful approach ensures each cat's needs are met.
+      We love providing daily updates that include pictures and behavioral observations for peace of mind. Have questions, or are ready to book? Send an inquiry our way through the form below! We can't wait to meet you."
     section: about
 
   # clients:
@@ -154,8 +159,8 @@ en: &DEFAULT_EN
     social:
       - url: https://instagram.com
         icon: "fab fa-instagram"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+      # - url: https://facebook.com
+      #   icon: "fab fa-facebook-f"
       - url: https://github.com/BallardCatBoarding/ballardcatboarding.github.io
         icon: "fab fa-github"
 
