@@ -44,21 +44,21 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Testimonials"
-    text: "Lorem ipsum timeline"
+    text: "Read about some of the experiences my customers have had with my service."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
+      - title: "Patches & Pebble"
+        year: "Carrie B."
+        desc: "DJ was so consderate. My two cats have different personalities and he made adjustments for them; giving space and gentle encouragement to my scaredy-cat and plenty of play and puzzles for my curious girl. I love that he meets the cats before the boarding and offers flexible drop off/pick up times.  As an overprotective cat lady, I recommend Ballard Cat Boarding."
+        image: assets/img/patchesandpebble003.jpg
+        alt: "One brown cat in the foreground, looking to the left.  A black cat out of focus in the background bathing in the sunlight."
+      # - title: "An Agency is Born"
+      #   year: "March 2011"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      #   image: assets/img/timeline/2.jpg
+      #   alt:
       # - title: "Jekyll Theme is created"
       #   year: "2019"
       #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
