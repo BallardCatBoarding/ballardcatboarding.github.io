@@ -155,7 +155,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    # legal: "Privacy Policy"
     social:
       - url: https://instagram.com
         icon: "fab fa-instagram"
