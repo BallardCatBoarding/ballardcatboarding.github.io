@@ -1,7 +1,14 @@
 #Color Customization
-highlight: "#d6e3ae"
-#white: "#FF0000"
-#black: "#000"
+# Greens
+# highlight: "#d6e3ae"
+# highlight: "#CBE381"
+# Blues
+# highlight: "#14274e"
+# highlight: "#B3C0FF"
+highlight: "#99ABFF"
+
+# white: "#FF0000"
+# black: "#000"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
