@@ -6,3 +6,5 @@ formspree_form_path: "f/xzbwvnpp"
 email: ballardcatboarding@gmail.com
 plugins:
     - jekyll-remote-theme
+    - jekyll-sitemap
+    - jekyll-seo-tag
