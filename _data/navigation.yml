@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Availability"
+      url: "/calendar"
     - title: "How we work"
       section: services
     # - title: "Testimonials"
@@ -21,6 +23,15 @@ en: &DEFAULT_EN
       section: timeline
     # - title: "Team"
     #   section: team
+    - title: "Contact"
+      section: contact
+    # - title: "Source"
+    #   url: https://github.com/BallardCatBoarding/ballardcatboarding.github.io
+  cal-nav:
+    - title: "Go Back"
+      url: "/"
+    - title: "Availability"
+      section: availability
     - title: "Contact"
       section: contact
     # - title: "Source"

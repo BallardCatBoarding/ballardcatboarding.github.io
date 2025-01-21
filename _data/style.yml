@@ -12,4 +12,4 @@ highlight: "#99ABFF"
 
 #Image Customization
 header-image: "../img/header-bg.webp"
-#contact-image: "../img/map-image.png"
+contact-image: ""
