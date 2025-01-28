@@ -163,8 +163,8 @@ en: &DEFAULT_EN
   footer:
     # legal: "Privacy Policy"
     social:
-       # - url: https://instagram.com
-       #   icon: "fab fa-instagram"
+       - url: https://instagram.com/ballardcatboarding
+         icon: "fab fa-instagram"
        # - url: https://facebook.com
        #   icon: "fab fa-facebook-f"
        - url: https://github.com/BallardCatBoarding/ballardcatboarding.github.io
